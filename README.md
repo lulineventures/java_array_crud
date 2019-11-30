@@ -7,4 +7,4 @@ Java school assignment.
     Options must include int element can either be added, deleted, searched, replaced and terminated
     Then result will output in console
 
-![Java array crud ](https://github.com/lulineventures/java_array_crud/blob/master/image.png)
+![Java array crud ](https://github.com/lulineventures/java_array_crud/blob/master/img.png)
